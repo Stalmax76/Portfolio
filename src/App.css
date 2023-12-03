@@ -4,3 +4,17 @@
   padding: 2rem;
   text-align: center;
 }
+a {
+  display: inline-block;
+  margin: 20px;
+  color: white;
+}
+nav {
+  background-color: darkslategrey;
+  padding: 15px;
+  display: flex;
+}
+.active {
+  color: lightyellow;
+  text-decoration: none;
+}
