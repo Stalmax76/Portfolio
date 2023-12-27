@@ -1,7 +1,7 @@
 import { NavLink } from 'react-router-dom';
 const ItAducation = () => {
   return (
-    <nav className="it">
+    <nav className="it" style={{ paddingTop: '100px' }}>
       It Aducation
       <NavLink to="." end>
         Web

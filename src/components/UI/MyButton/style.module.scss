@@ -1,0 +1,15 @@
+.myButton {
+   margin: 20px;
+   font-weight: 600;
+   padding: 0.8em 1.4em;
+   position: relative;
+   border-radius: 0.66em;
+   scale: 1;
+   background-color: blue;
+
+   &_text {
+   }
+
+   &_bg {
+   }
+}

@@ -3,3 +3,9 @@
    box-sizing: border-box;
    overflow: clip;
 }
+.wrapper {
+   min-height: 100%;
+   display: flex;
+   flex-direction: column;
+   overflow: clip;
+}
