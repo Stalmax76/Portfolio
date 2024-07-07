@@ -6,7 +6,7 @@ import NotFound from './components/NotFound';
 import MusicAducation from './components/MusicAducation';
 import MainLayout from './layouts/MainLayout';
 import ItLayout from './layouts/ItLayout';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
